@@ -14,7 +14,7 @@ export const sliderItems = [
         bg: "fcf1ed",
     },
     {
-        id: 1,
+        id: 3,
         img: "https://i.ibb.co/d6gMnbK/hero3.png",
         title: "SANKOFA SALE",
         desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
@@ -26,16 +26,51 @@ export const categories = [
     {
         id: 1,
         img: "https://i.ibb.co/KzRknbK/Print-Dress1.png",
-        title: "Print Dress"
+         title: "Print Dress"
     },
     {
-        id: 1,
+        id: 2,
         img: "https://i.ibb.co/BCD01zx/Print-top1.jpg",
         title: "Print Top"
     },
     {
-        id: 1,
+        id: 3,
         img: "https://i.ibb.co/qnf0cYV/Dashiki1.png",
         title: "Dashiki Top"
     }
+]
+
+export const popularProducts = [
+    {
+        id: 1,
+        img: "https://i.ibb.co/KzRknbK/Print-Dress1.png",
+    },
+    {
+        id: 2,
+        img: "https://i.ibb.co/BCD01zx/Print-top1.jpg",
+    },
+    {
+        id: 3,
+        img: "https://i.ibb.co/qnf0cYV/Dashiki1.png",
+    },
+    {
+        id: 4,
+        img: "https://i.ibb.co/qnf0cYV/Dashiki1.png",
+    },
+    {
+        id: 5,
+        img: "https://i.ibb.co/qnf0cYV/Dashiki1.png",
+    },
+    {
+        id: 6,
+        img: "https://i.ibb.co/qnf0cYV/Dashiki1.png",
+    },
+    {
+        id: 7,
+        img: "https://i.ibb.co/qnf0cYV/Dashiki1.png",
+    },
+    {
+        id: 8,
+        img: "https://i.ibb.co/qnf0cYV/Dashiki1.png",
+    },
 ]
